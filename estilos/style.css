@@ -50,6 +50,7 @@ iframe#home{
 
 section#botoes{
     text-align: right;
+    margin: 10px;
 }
 
 section#botoes img{
